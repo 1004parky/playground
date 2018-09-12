@@ -1,3 +1,3 @@
 # Playground Repo
 
-For practicing.
+Edited to make unique from course version. For practicing.
